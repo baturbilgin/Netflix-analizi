@@ -4,7 +4,7 @@
 **Öğrenci No:** 24 LITT 036  
 **Ders:** Veri Analizinde Bilgisayar Programlama 2
 
-🔗 **Canlı Rapor:** https://baturbilgin.github.io/netflix-analizi/
+🔗 **Canlı Rapor:** https://baturbilgin.github.io/Netflix-analizi/
 
 ## Hakkında
 
